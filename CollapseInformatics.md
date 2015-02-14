@@ -1,9 +1,10 @@
 ---
-Layout: Default
-Title: Collapse Informatics: Augmenting the Sustainability & ICT4D Discourse in HCI
+layout: Default
+title: Collapse Informatics: Augmenting the Sustainability & ICT4D Discourse in HCI
 Date: 20-12-2014
 Category: Reading
 Tags: Climate Informatics, X-informatics, HCI, CHI
+isHome: false
 
 ---
 
