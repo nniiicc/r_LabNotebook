@@ -11,14 +11,14 @@ licenseUrl: http://opensource.org/licenses/MIT
 # list of additional links on the right of the top menu
 headerLinks:
   - title: GitHub
-    url: https://github.com/mistic100/jekyll-bootstrap-doc
+    url: https://github.com/nniiicc
 
-# list if additional links on the footer
+# list of additional links on the footer
 footerLinks:
   - title: GitHub
-    url: https://github.com/mistic100/jekyll-bootstrap-doc
+    url: https://github.com/nniiicc
   - title: Issues
-    url: https://github.com/mistic100/jekyll-bootstrap-doc/issues?state=open
+    url: https://github.com/
 
 # header
 header:
@@ -28,19 +28,19 @@ header:
 
 # github buttons
 githubButton:
-  user: mistic100
-  repo: jekyll-bootstrap-doc
+  user: nniiicc
+  repo: 
 
 # twitter buttons
 twitter:
   enabled: true
   via:
   hash:
-  account:
+  account: nniiicc
 
 # facebook buttons
 facebook:
-  enabled: true
+  enabled: false    
   profileUrl:
 
 # google analytics
