@@ -43,6 +43,9 @@ facebook:
   enabled: false    
   profileUrl:
 
+# To render better tables
+markdown: kramdown
+
 # google analytics
 analytics:
   account:
