@@ -1,5 +1,5 @@
 ---
-layout: post      
+layout: default      
 title: Table
 description: Another page
 isHome: false
