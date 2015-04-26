@@ -25,7 +25,7 @@ isHome: false
 | Metric diversity        | Medium - some metrics for success | Medium- some metrics for success     | High - many metrics for success |
 | Policy instrument       | Incentive Based Insturments       | Incentive Based Instruments          | Incentive Based Instruments     |
 | Scale match             | Match                             | Match                                | Match                           |
-
+{: class="table"}
 
 
 | Header1 | Header2 | Header3 |
