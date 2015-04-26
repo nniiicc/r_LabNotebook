@@ -8,8 +8,8 @@ isHome: false
 
 |      Variable Name      | Regime 1 :                        | Regime 2                             | Regime 3                        |
 |:-----------------------:|-----------------------------------|--------------------------------------|---------------------------------|
-| Begin date              | 1981                              | 2001                                 | 2011                            |
-| End Date                | 2000                              | 2010                                 | Present                         |
+| [Begin date]()              | 1981                              | 2001                                 | 2011                            |
+| [End Date]()                | 2000                              | 2010                                 | Present                         |
 | Description             | See above                         | See Above                            | See Above                       |
 | Multiple levels         | Single-Level Governance           | International Governance             | International Governance        |
 | Institutional diversity | Low                               | Medium                               | Medium                          |
